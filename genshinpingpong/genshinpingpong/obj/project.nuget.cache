@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4Y6mQf+NDCe9gdnwilPbvJ1BVT887gJ1CA7ZFIf9uEHDesKHMlgdlkI5qNLmLbzEle5h3h50Ci49Zov7Ffayg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HOROSU\\source\\repos\\genshinpingpong\\genshinpingpong\\genshinpingpong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HOROSU\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HOROSU\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\HOROSU\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\HOROSU\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
